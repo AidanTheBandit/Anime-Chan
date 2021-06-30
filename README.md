@@ -1,2 +1,2 @@
 # Anime Chan
- Boop
+This was a bot that I modified for Royally Dizzy
